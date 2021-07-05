@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+  }
+  body{
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/61XJ%2BvADUFL._AC_SX425_.jpg");
+    background-repeat: repeat;
+    opacity: 1;
+  }
+  #Joshua{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white; 
+  }
+  
+  #Description{
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black; 
+  }
+  
+  #Photo{
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-left: auto  ;
+    margin-right: auto ; 
+    border-style: dashed;
+  }
+  
+  .Profile{
+    font-family: Arial;
+    text-align: justify;
+    margin-bottom: 10px;
+    color:black;
+  }
+  .Experience{
+    text-decoration: overline brown;
+    margin-bottom: 0px;
+    font-weight: 700;
+  }
+  .Texto{
+    font-size: 14px;
+    font-weight: 300;
+  }
+  .Recuadro{
+    font-family: Arial;
+    font-weight: 700;
+    text-align: left;
+    padding: 3px 10px;
+    border: white 10px solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+  
+  #Redes{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+  }
